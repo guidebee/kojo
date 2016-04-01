@@ -10,3 +10,5 @@ installerbuild/
 project/
 security/
 target/
+.idea
+
